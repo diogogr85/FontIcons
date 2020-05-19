@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icons">
+        <item>\uf198</item>
+        <item>\uf17b</item>
+        <item>\uf179</item>
+        <item>\uf17c</item>
+        <item>\uf09b</item>
+        <item>\uf1b6</item>
+        <item>\uf1bc</item>
+        <item>\uf2ad</item>
+        <item>\uf232</item>
+        <item>\uf27d</item>
+        <item>\uf1f4</item>
+        <item>\uf16c</item>
+    </string-array>
+</resources>

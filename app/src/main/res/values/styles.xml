@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextViewIcon" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/font_awesome</item>
+    </style>
+
 </resources>

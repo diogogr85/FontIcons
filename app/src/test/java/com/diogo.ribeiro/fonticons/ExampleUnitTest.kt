@@ -1,4 +1,4 @@
-package com.sushicode.fonticons
+package com.diogo.ribeiro.fonticons
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.sushicode.fonticons
+package com.diogo.ribeiro.fonticons
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.sushicode.fonticons", appContext.packageName)
+        assertEquals("com.diogo.ribeiro.fonticons", appContext.packageName)
     }
 }
